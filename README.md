@@ -1,7 +1,8 @@
  # Victor Lemes 
 
 **`Cursando Computer Science`**
-    </a> 
+   
+   <p align="left">
     <a href="https://github.com/2bdeceased/2bdeceased/stargazerss">
         <img 
             alt="Total de estrelas" 
