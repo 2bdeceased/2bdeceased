@@ -1,6 +1,6 @@
  # Victor Lemes 
 
-**`Cursando Computer Science`**
+**`Currently working within Computer Science`**
    
    <p align="left">
     <a href="https://github.com/2bdeceased/2bdeceased/stargazerss">
