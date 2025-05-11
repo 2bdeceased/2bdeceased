@@ -36,24 +36,10 @@
 <br/>
 <br/>
 
-### Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=2bdeceased&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=2bdeceased&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=2bdeceased&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=2bdeceased&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=2bdeceased&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/92/64/6e/92646eb3208f9acdb9d7b1075a532d38.gif"  />
